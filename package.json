@@ -1,0 +1,30 @@
+{
+  "name": "aulappi01",
+  "version": "1.0.0",
+  "description": "First API w Node.js + Express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aglazzz/AulaPPI01.git"
+  },
+  "keywords": [
+    "http",
+    "express",
+    "node",
+    "PPI"
+  ],
+  "author": "Manu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aglazzz/AulaPPI01/issues"
+  },
+  "homepage": "https://github.com/aglazzz/AulaPPI01#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
